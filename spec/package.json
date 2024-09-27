@@ -1,0 +1,14 @@
+{
+  "name": "spec",
+  "version": "1.0.0",
+  "main": "sudoku.spec.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
